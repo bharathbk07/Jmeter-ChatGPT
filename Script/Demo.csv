@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1694001079431,879,API Request,201,Created,Thread Group 1-1,text,true,,713,261,1,1,https://reqres.in/api/users,871,0,523
